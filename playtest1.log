@@ -5,7 +5,8 @@ LINE ID: 192
 PLAYTEST ID: 1
 
 Invalid syntax in:
+if lifeline.Alive == true then
  lifeline:SetLife(0)
-         ^ HERE
+          ^ HERE
 
-"lifeline" was not set before reading.
+"SetLife" was not set before reading.
