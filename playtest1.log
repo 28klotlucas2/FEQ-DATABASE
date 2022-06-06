@@ -1,0 +1,10 @@
+ERROR CODE: 492
+GAME ID: 9832321220
+FUNCTION ID: 26
+LINE ID: 192
+PLAYTEST ID: 1
+
+Invalid syntax in:
+ lifeline:SetLife(0)
+                  ^ HERE
+"lifeline" was not set before reading.
