@@ -6,5 +6,6 @@ PLAYTEST ID: 1
 
 Invalid syntax in:
  lifeline:SetLife(0)
-                  ^ HERE
+         ^ HERE
+
 "lifeline" was not set before reading.
